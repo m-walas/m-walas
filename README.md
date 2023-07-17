@@ -1,10 +1,9 @@
 ### Hello there 👋! I am Mateusz
 #### and I am a student of AGH.
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am starting my adventure with programming :)
 
-Python | Java | C++ | Django | Home assistant
+Python | Java | C++ | Django | Home Assistant | yaml
 
 📫 How to contact me: mateuszwalas@student.agh.edu.pl 
 
