@@ -1,5 +1,5 @@
 ### Hello there 👋! I am Mateusz
-#### and I am a student of AGH.
+#### and I am a student of AGH University of Krakow.
 
 I am starting my adventure with programming :)
 
