@@ -1,4 +1,4 @@
-![banner](link)
+![banner](https://github.com/m-walas/m-walas/assets/96449773/d0c7c701-edbc-4862-ac4c-79685115257c)
 
 <h4 align="center"> Hi there, I am Mateusz 👋 </h4>
 <h3 align="center">I'm a student at AGH University of Science and Technology in Krakow.</h3>
@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-walas)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-[FakeTrains](https://www.faketrains.mwalas.pl) 🚉 <br>
+[FakeTrains](https://faketrains.mwalas.pl) 🚉 <br>
 <i> FakeTrains is an innovative web application for searching train connections, offering reservation and ticket purchasing capabilities. Crafted with Django for the backend and Vue.js on the frontend, it provides a seamless and user-friendly experience. The integration with Stripe for payment processing ensures secure and convenient transactions, making this project a culmination of academic pursuit blending functionality with modern aesthetics. </i>
 ##
 <br><br>
