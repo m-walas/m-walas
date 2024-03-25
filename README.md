@@ -37,7 +37,7 @@
 
 ## Projects
 [FakeTrains](https://faketrains.mwalas.pl) 🚉 <br>
-<i> FakeTrains is an innovative web application for searching train connections, offering reservation and ticket purchasing capabilities. Crafted with Django for the backend and Vue.js on the frontend, it provides a seamless and user-friendly experience. The integration with Stripe for payment processing ensures secure and convenient transactions, making this project a culmination of academic pursuit blending functionality with modern aesthetics. </i>
+<i> FakeTrains is a web application for searching train connections, offering reservation and ticket purchasing capabilities. Crafted with Django for the backend and Vue.js on the frontend, it provides a seamless and user-friendly experience. The integration with Stripe for payment processing ensures secure and convenient transactions, making this project a culmination of academic pursuit blending functionality with modern aesthetics. </i>
 ##
 <br><br>
 Loved what you saw on my profile? 🌟 Feel like I've contributed to your project in some way or just want to fuel my late-night coding sessions? Hit the beer icon below to show some love! 🍻 
