@@ -59,6 +59,8 @@
 - **Features:** Fetching game data, Filtering by PEGI rating, mode, platform, distribution and more
 
 [![Game Comparison Tool - GitHub](https://img.shields.io/badge/Game_Comparison_Tool-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-walas/game-comparison-tool)
+<br>
+![Outdated](https://img.shields.io/badge/status-outdated-red)
 
 ---
 
