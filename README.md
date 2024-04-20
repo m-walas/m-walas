@@ -39,6 +39,19 @@
 
 ## Projects
 
+#### 🏠 HomeAIVision Home Assistant Integration
+
+*HomeAIVision is a Home Assistant integration that utilizes Azure Cognitive Services for camera image analysis. It enables real-time object detection, sending notifications and saving images with detections. It's the perfect solution for smart homes aiming to enhance security and interactivity.*
+
+- **Technologies:** Home Assistant, Azure Cognitive Services, Python
+- **Features:** Real-time object detection, Notifications, Image saving
+
+[![HomeAIVision - GitHub](https://img.shields.io/badge/HomeAIVision-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-walas/HomeAIVision)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
 #### 🚉 FakeTrains
 
 *FakeTrains is a web application designed for searching train connections, including features for reservation and ticket purchasing. Built using Django and Vue.js, it offers a smooth and user-friendly interface. With Stripe integration, it ensures secure payments, showcasing a blend of academic knowledge and practical application.*
